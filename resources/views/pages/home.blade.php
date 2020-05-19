@@ -189,13 +189,16 @@
                                         <div class="single-post-list">
                                             <div class="thumb">
                                                 @if ($writer->avatar == 'avatar-icon.png')
-                                                <img class="card-img-writer rounded-0" src="/img/avatars/avatar-icon.png"  alt="User Image">
+                                                    <img class="card-img-writer rounded-0" src="/img/avatars/avatar-icon.png"  alt="User Image">
                                                 @else
-                                                <img  class="card-img-writer rounded-0" src="/storage/avatars/{{$writer->avatar}}"  alt="User Image">
+                                                    <img  class="card-img-writer rounded-0" src="/storage/avatars/{{$writer->avatar}}"  alt="User Image">
                                                 @endif
                                                     {{-- <img class="card-img-writer rounded-0" src="img/blog/c1.jpg" alt=""> --}}
                                                 <ul class="thumb-info">
-                                                <li><a href="{{route('users.show', $writer)}}">{{$writer->name}}</a></li>
+                                                    <li>
+                                                        <span><a href="{{route('users.show', $writer)}}">{{$writer->name}}</a></span>
+                                                        <span><a href="#">({{$writer->posts->count()}})</a></span>
+                                                    </li>                                                                                                                </a></li>
                                                 </ul>
                                             </div>
                                         </div>

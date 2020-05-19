@@ -1,7 +1,7 @@
 @if ($paginator->hasPages())
 
     <div class="row">
-        <div class="col-lg-12">
+        <div class="col-12">
             <nav class="blog-pagination justify-content-center d-flex">
                 <ul class="pagination">
                     {{-- Previous Page Link --}}

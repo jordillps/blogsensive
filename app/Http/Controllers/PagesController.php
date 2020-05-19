@@ -21,7 +21,7 @@ class PagesController extends Controller
         //carreguem  totes les relacions en la consulta
         $posts = Post::with(['category','tags', 'owner', 'photos'])
         ->latest('published_at')
-        ->paginate(2);
+        ->paginate(3);
 
         //$posts = $query->paginate(2);
         // $posts = Post::paginate(2);

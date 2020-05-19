@@ -39,7 +39,7 @@ return [
     'createpost'  => 'Crear una publicació',
     'users'       => 'Usuaris',
     'usersall'    => 'Tots els usuaris',
-    'createuser'  => 'Crear un usuario',
+    'createuser'  => 'Crear un usuari',
     'profile'     => 'Perfil',
     'myprofile'   => 'Veure el meu perfil',
     'roles'       => 'Rols',
