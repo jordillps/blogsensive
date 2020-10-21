@@ -33,7 +33,7 @@ class Post extends Model
         return $this->belongsToMany(Tag::class);
     }
 
-    public function photos(){ //$post->tag->name
+    public function photos(){ //$post->photo->name
         return $this->hasMany(Photo::class);
     }
 
