@@ -24,11 +24,13 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "elliptic": "^6.5.3",
+        "elliptic": "^6.5.4",
         "fibers": "^5.0.0",
         "node-forge": "^0.10.0",
         "node-sass": "^4.14.1",
         "object-path": "^0.11.5",
-        "websocket-extensions": "^0.1.4"
+        "postcss": "^8.2.9",
+        "websocket-extensions": "^0.1.4",
+        "y18n": "^5.0.7"
     }
 }
