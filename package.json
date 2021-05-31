@@ -24,6 +24,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
+        "dns-packet": "^5.2.4",
         "elliptic": "^6.5.4",
         "fibers": "^5.0.0",
         "node-forge": "^0.10.0",
