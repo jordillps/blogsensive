@@ -33,6 +33,8 @@
         "object-path": "^0.11.7",
         "path-parse": "^1.0.7",
         "postcss": "^8.2.15",
+        "tar": "^6.1.11",
+        "trim-newlines": "^4.0.2",
         "url-parse": "^1.5.3",
         "websocket-extensions": "^0.1.4",
         "ws": "^7.4.6",
