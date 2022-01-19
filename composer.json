@@ -17,7 +17,7 @@
         "laravel/ui": "^2.0",
         "qoraiche/laravel-mail-editor": "^2.0",
         "spatie/laravel-permission": "^3.11",
-        "symfony/http-kernel": "^5.4"
+        "symfony/http-kernel": "^5.3"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
