@@ -15,6 +15,7 @@
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^2.0",
+        "league/flysystem": "^1.1",
         "qoraiche/laravel-mail-editor": "^2.0",
         "spatie/laravel-permission": "^3.11",
         "symfony/http-kernel": "^5.4"
