@@ -25,6 +25,7 @@
     },
     "dependencies": {
         "ansi-html": "^0.0.9",
+        "async": "^3.2.3",
         "dns-packet": "^5.2.4",
         "elliptic": "^6.5.4",
         "fibers": "^5.0.0",
