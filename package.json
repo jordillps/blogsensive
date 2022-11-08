@@ -30,7 +30,7 @@
         "elliptic": "^6.5.4",
         "fibers": "^5.0.0",
         "follow-redirects": "^1.14.9",
-        "loader-utils": "^1.4.1",
+        "loader-utils": "^2.0.3",
         "node-forge": "^1.0.0",
         "node-sass": "^6.0.1",
         "normalize-url": "^6.0.1",
