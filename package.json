@@ -28,6 +28,7 @@
         "async": "^3.2.3",
         "dns-packet": "^5.2.4",
         "elliptic": "^6.5.4",
+        "express": "^4.18.2",
         "fibers": "^5.0.0",
         "follow-redirects": "^1.14.9",
         "loader-utils": "^2.0.4",
