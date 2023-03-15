@@ -42,6 +42,7 @@
         "postcss": "^8.4.5",
         "scss-tokenizer": "^0.4.3",
         "tar": "^6.1.11",
+        "terser": "^5.16.6",
         "trim-newlines": "^4.0.2",
         "url-parse": "^1.5.8",
         "webpack": "^5.76.1",
