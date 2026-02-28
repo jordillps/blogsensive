@@ -33,7 +33,7 @@
         "follow-redirects": "^1.14.9",
         "json5": "^1.0.2",
         "loader-utils": "^2.0.4",
-        "minimatch": "^3.1.2",
+        "minimatch": "^3.1.4",
         "node-forge": "^1.0.0",
         "node-sass": "^9.0.0",
         "normalize-url": "^6.0.1",
